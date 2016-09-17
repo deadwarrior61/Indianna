@@ -4,7 +4,7 @@
   "description": "bot de test",
   "main": "bot.js",
   "scripts": {
-    "test": "nodemon bot.js"
+    "indianna": "nodemon bot.js"
   },
   "author": "TakoHell-Electronique-Inc",
   "licence": "MIT",
